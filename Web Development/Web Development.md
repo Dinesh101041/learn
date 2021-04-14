@@ -18,9 +18,11 @@
   
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
+   -  [Animate css](https://github.com/animate-css/animate.css)
    -  [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
+  
 
 ## Deisgn Tools
   
