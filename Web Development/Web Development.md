@@ -29,6 +29,8 @@
    -  [Adobe XD](https://www.adobe.com/in/products/xd.html)
    -  [Figma](https://www.sketch.com/)
    -  [Sketch](https://www.figma.com/)
+  
+## Dev Tools
    -  [Carbon](https://carbon.now.sh/)
-   -  [Sketch](https://replit.com/)
-   -  [Sketch](https://www.figma.com/)
+   -  [Replit](https://replit.com/)
+   -  [Squoosh](https://squoosh.app/)
