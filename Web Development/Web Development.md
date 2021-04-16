@@ -24,8 +24,11 @@
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
   
 
-## Deisgn Tools
+## Best Tools
   
    -  [Adobe XD](https://www.adobe.com/in/products/xd.html)
    -  [Figma](https://www.sketch.com/)
+   -  [Sketch](https://www.figma.com/)
+   -  [Carbon](https://carbon.now.sh/)
+   -  [Sketch](https://replit.com/)
    -  [Sketch](https://www.figma.com/)
