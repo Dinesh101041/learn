@@ -29,6 +29,12 @@
    -  [Adobe XD](https://www.adobe.com/in/products/xd.html)
    -  [Figma](https://www.sketch.com/)
    -  [Sketch](https://www.figma.com/)
+
+## Doc Tools
+   -  [Dev Docs](https://devdocs.io/)
+   -  [Dev Hints](https://devhints.io/)
+   -  [I hate Regex](https://ihateregex.io/)
+   
   
 ## Dev Tools
    -  [Carbon](https://carbon.now.sh/)
