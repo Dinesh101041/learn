@@ -34,3 +34,7 @@
    -  [Carbon](https://carbon.now.sh/)
    -  [Replit](https://replit.com/)
    -  [Squoosh](https://squoosh.app/)
+   -  [Wapplyzer](https://www.wappalyzer.com/)
+   -  [kite](https://www.kite.com/)
+   -  [Netlify](https://www.netlify.com/)
+
