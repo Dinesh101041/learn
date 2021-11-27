@@ -27,8 +27,8 @@
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
-
-             
+   -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
+   -  
 
 ## Best Tools
   
