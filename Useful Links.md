@@ -26,6 +26,7 @@
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
+   -  [Awesome Resources](https://github.com/sindresorhus/awesome)
 
              
 
