@@ -28,7 +28,8 @@
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
-   -  
+   -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+
 
 ## Best Tools
   
