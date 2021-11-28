@@ -29,6 +29,7 @@
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+   -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
 
 ## Best Tools
