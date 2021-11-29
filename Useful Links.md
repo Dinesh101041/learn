@@ -31,7 +31,8 @@
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
-   
+   -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
+
 
 ## Best Tools
   
