@@ -54,4 +54,4 @@
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [kite](https://www.kite.com/)
    -  [Netlify](https://www.netlify.com/)
-
+   -  [Rollbar error logging](https://rollbar.com/)
