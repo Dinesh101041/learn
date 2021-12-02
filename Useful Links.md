@@ -33,6 +33,7 @@
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
+   -  [Algorithms](https://github.com/TheAlgorithms)
 
 
 ## Best Tools
