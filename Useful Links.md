@@ -13,7 +13,7 @@
    -  [UX Movement](https://uxmovement.com/)
    -  [Dribble](https://dribbble.com/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
-   -  [Linkedin SSE](https://linkedin.github.io/school-of-sre/)
+   -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
    
    
    
@@ -34,6 +34,7 @@
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Algorithms](https://github.com/TheAlgorithms)
+   -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 
 
 ## Best Tools
