@@ -43,6 +43,7 @@
    -  [Adobe XD](https://www.adobe.com/in/products/xd.html)
    -  [Figma](https://www.sketch.com/)
    -  [Sketch](https://www.figma.com/)
+   -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
 
 ## Doc Tools
    -  [Dev Docs](https://devdocs.io/)
