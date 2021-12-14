@@ -35,6 +35,7 @@
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Algorithms](https://github.com/TheAlgorithms)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+   -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
 
 
 ## Best Tools
