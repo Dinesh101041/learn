@@ -35,6 +35,7 @@
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
+   -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
   
 
