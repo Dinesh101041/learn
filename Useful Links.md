@@ -66,3 +66,4 @@
    -  [Squoosh](https://squoosh.app/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [Rollbar error logging](https://rollbar.com/)
+   -  [Travis CI](https://travis-ci.org/)
