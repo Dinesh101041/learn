@@ -46,14 +46,14 @@
    -  [Figma](https://www.sketch.com/)
    -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
    -  [Sketch](https://www.figma.com/)
-   
+   -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
+
 
 ## Doc Tools
 
    -  [Dev Docs](https://devdocs.io/)
    -  [Dev Hints](https://devhints.io/)
    -  [I hate Regex](https://ihateregex.io/)
-   -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
    
   
 ## Dev Tools
@@ -64,6 +64,7 @@
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
    -  [Squoosh](https://squoosh.app/)
+   -  Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [Rollbar error logging](https://rollbar.com/)
-   -  [Travis CI](https://travis-ci.org/)
+   
