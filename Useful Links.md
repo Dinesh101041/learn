@@ -3,6 +3,7 @@
    -  [Backend RoadMap](https://roadmap.sh/backend)
    -  [Devops RoadMap](https://roadmap.sh/devops)
    -  [Front-End RoadMap](https://roadmap.sh/frontend)
+   -  [YouTubers to learn](https://github.com/JoseDeFreitas/awesome-youtubers)
 
 
 ## Best Webistes
@@ -65,7 +66,7 @@
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
    -  [Squoosh](https://squoosh.app/)
-   -  Travis CI](https://travis-ci.org/)
+   -  [Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [Rollbar error logging](https://rollbar.com/)
    
