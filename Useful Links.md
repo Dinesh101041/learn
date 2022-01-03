@@ -30,6 +30,7 @@
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
+   -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
