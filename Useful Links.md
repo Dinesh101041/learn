@@ -12,6 +12,7 @@
   
    -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
    -  [CSS-Tricks](https://css-tricks.com/)
+   -  [CSS hover effects](http://ianlunn.github.io/Hover/)
    -  [Dribble](https://dribbble.com/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
