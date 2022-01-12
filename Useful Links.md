@@ -10,6 +10,7 @@
 
 ## Best Webistes
   
+   -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [Dribble](https://dribbble.com/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
@@ -41,6 +42,7 @@
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
+   -
   
 
 
