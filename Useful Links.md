@@ -40,6 +40,7 @@
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
+   -. [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
