@@ -39,13 +39,14 @@
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
+   -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -. [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
-   -
+   
   
 
 
