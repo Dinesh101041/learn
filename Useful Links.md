@@ -41,7 +41,7 @@
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
-   -. [Python mini project](https://github.com/Python-World/python-mini-projects)
+   -  [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
@@ -69,7 +69,7 @@
 ## Dev Tools
 
    -  [Carbon](https://carbon.now.sh/)
-   - [Docker files](https://github.com/jessfraz/dockerfiles)
+   -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [kite](https://www.kite.com/)
    -  [Netlify](https://www.netlify.com/)
    -  [Replit](https://replit.com/)
