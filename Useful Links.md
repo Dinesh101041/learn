@@ -33,6 +33,7 @@
    -  [Block chain](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
    -  [Cheat Sheets](https://github.com/rstacruz/cheatsheets)
+   -  [Community  writers program](https://github.com/malgamves/CommunityWriterPrograms)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
