@@ -30,6 +30,7 @@
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+   -  [Block chain](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
    -  [Cheat Sheets](https://github.com/rstacruz/cheatsheets)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
