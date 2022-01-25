@@ -39,6 +39,7 @@
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
+   -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
