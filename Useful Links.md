@@ -43,6 +43,7 @@
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
+   -  [Machine learning projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
