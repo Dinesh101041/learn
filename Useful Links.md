@@ -30,6 +30,7 @@
    -  [Animate css](https://github.com/animate-css/animate.css)
    -  [Algorithms](https://github.com/TheAlgorithms)
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+   -. [Awesome Typography]()https://github.com/Jolg42/awesome-typography
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
    -  [Block chain](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
