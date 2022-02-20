@@ -51,6 +51,7 @@
    -  [Machine learning projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
+   -  [Pay loads](https://github.com/swisskyrepo/PayloadsAllTheThings)
    -  [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
