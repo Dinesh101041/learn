@@ -43,6 +43,7 @@
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
+   -  [Flutter UI challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
    -  [GCP sketch note](https://github.com/priyankavergadia/GCPSketchnote)
    -  [Learn GO with test](https://github.com/quii/learn-go-with-tests)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
