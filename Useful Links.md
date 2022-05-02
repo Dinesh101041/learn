@@ -17,6 +17,7 @@
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
    -  [Dribble](https://dribbble.com/)
+   -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
    -  [OWASP cheat sheets](https://cheatsheetseries.owasp.org/)
