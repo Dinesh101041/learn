@@ -79,7 +79,6 @@
 ## Doc Tools
 
    -  [Dev Docs](https://devdocs.io/)
-   -  [Dev Hints](https://devhints.io/)
    -  [I hate Regex](https://ihateregex.io/)
    -  [Fun javascript](https://github.com/denysdovhan/wtfjs)
    
