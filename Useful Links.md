@@ -74,6 +74,7 @@
    -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
    -  [Sketch](https://www.figma.com/)
    -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
+   -  [Whimsical](https://whimsical.com/)
 
 
 ## Doc Tools
