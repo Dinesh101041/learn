@@ -54,6 +54,7 @@
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
    -  [Machine learning projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+   -  [Misc javascript projects](https://github.com/Revadike/Misc-JavaScript-Projects)
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Pay loads](https://github.com/swisskyrepo/PayloadsAllTheThings)
