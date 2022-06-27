@@ -59,6 +59,7 @@
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Pay loads](https://github.com/swisskyrepo/PayloadsAllTheThings)
    -  [Python mini project](https://github.com/Python-World/python-mini-projects)
+   -  [Python patterns](https://github.com/faif/python-patterns)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
