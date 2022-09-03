@@ -40,6 +40,7 @@
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
    -  [Cheat Sheets](https://github.com/rstacruz/cheatsheets)
    -  [Community  writers program](https://github.com/malgamves/CommunityWriterPrograms)
+   -. [Community Discussions](https://github.com/community/community)
    -  [Data engineering course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
