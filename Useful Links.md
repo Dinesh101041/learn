@@ -82,7 +82,8 @@
    -. [Motion Desinger](https://github.com/theatre-js/theatre)
    -. [Notes taking App](https://github.com/nuttyartist/notes)
    -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-   -  [Sketch](https://www.figma.com/)
+   -  [Figma](https://www.figma.com/)
+   -  [System design game](https://designpatternsgame.com/)
    -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
    -  [Whimsical](https://whimsical.com/)
 
