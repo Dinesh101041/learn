@@ -66,6 +66,7 @@
    -  [Python patterns](https://github.com/faif/python-patterns)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [System Design - Interview ready](https://github.com/InterviewReady/system-design-resources)
+   -  [System Design questions](https://github.com/relogX/system-design-questions)
    -  [Self hosted server](https://github.com/awesome-selfhosted/awesome-selfhosted)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
