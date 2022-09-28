@@ -59,6 +59,7 @@
    -  [Machine learning projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
    -  [Misc javascript projects](https://github.com/Revadike/Misc-JavaScript-Projects)
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
+   -  [Ninety(90) Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Programming in pictures](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
    -  [Pay loads](https://github.com/swisskyrepo/PayloadsAllTheThings)
