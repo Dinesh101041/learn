@@ -107,5 +107,5 @@
    -  [Squoosh](https://squoosh.app/)
    -  [Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
-   -  [Rollbar error logging](https://rollbar.com/)
+   -  [Winston Error loggin](https://www.npmjs.com/package/winston)
    
