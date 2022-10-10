@@ -88,7 +88,7 @@
    -  [Figma](https://www.figma.com/)
    -  [System design game](https://designpatternsgame.com/)
    -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
-   -  [Whimsical](https://whimsical.com/)
+   -  [Whimsical Diagram Tool](https://whimsical.com/)
 
 
 ## Doc Tools
@@ -110,5 +110,5 @@
    -  [Squoosh](https://squoosh.app/)
    -  [Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
-   -  [Winston Error loggin](https://www.npmjs.com/package/winston)
+   -  [Winston Error logging](https://www.npmjs.com/package/winston)
    
