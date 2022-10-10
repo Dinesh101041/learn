@@ -52,6 +52,7 @@
    -  [Flutter UI challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
    -  [GCP sketch note](https://github.com/priyankavergadia/GCPSketchnote)
    -  [GitHub Ranking repos](https://github.com/EvanLi/Github-Ranking)
+   -  [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
    -  [Learn GO with test](https://github.com/quii/learn-go-with-tests)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
