@@ -101,6 +101,7 @@
 
    -  [Carbon](https://carbon.now.sh/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
+   -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
    -  [kite](https://www.kite.com/)
    -  [Netlify](https://www.netlify.com/)
    -  [Replit](https://replit.com/)
