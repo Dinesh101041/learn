@@ -47,6 +47,7 @@
    -  [Data engineering course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
+   -.  [DSA in Python](https://github.com/SamirPaul1/DSAlgo)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
