@@ -65,7 +65,7 @@
    -  [Misc javascript projects](https://github.com/Revadike/Misc-JavaScript-Projects)
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
    -  [Ninety(90) Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps)
-   -  [Pay loads](https://github.com/swisskyrepo/PayloadsAllTheThings)
+   -  [Pay loads for web application and pen testing](https://github.com/swisskyrepo/PayloadsAllTheThings)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Programming in pictures](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
    -  [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
