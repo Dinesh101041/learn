@@ -37,7 +37,7 @@
    -  [Art of command line](https://github.com/jlevy/the-art-of-command-line)
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
    -  [Awesome Educational games](https://github.com/yrgo/awesome-educational-games)
-   -. [Awesome pentest](https://github.com/enaqx/awesome-pentest)
+   -  [Awesome pentest](https://github.com/enaqx/awesome-pentest)
    -  [Awesome Typography](https://github.com/Jolg42/awesome-typography)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
