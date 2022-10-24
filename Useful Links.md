@@ -34,6 +34,7 @@
 
    -  [Animate css](https://github.com/animate-css/animate.css)
    -  [Algorithms](https://github.com/TheAlgorithms)
+   -  [Art of command line](https://github.com/jlevy/the-art-of-command-line)
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
    -  [Awesome Educational games](https://github.com/yrgo/awesome-educational-games)
    -  [Awesome Typography](https://github.com/Jolg42/awesome-typography)
