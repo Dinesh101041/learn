@@ -91,6 +91,7 @@
    -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
    -  [Figma](https://www.figma.com/)
    -  [System design game](https://designpatternsgame.com/)
+   -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
    -  [VPN](https://chrome.google.com/webstore/detail/urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon)
    -  [Whimsical Diagram Tool](https://whimsical.com/)
 
