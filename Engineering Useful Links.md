@@ -68,6 +68,7 @@
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
    -  [Ninety(90) Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps)
    -  [Pay loads for web application and pen testing](https://github.com/swisskyrepo/PayloadsAllTheThings)
+   -  [Papers we love](https://github.com/papers-we-love/papers-we-love)
    -  [Pen Testing cheat sheets](https://github.com/0xJs/RedTeaming_CheatSheet)
    -  [Programmer should know](https://github.com/mtdvio/every-programmer-should-know)
    -  [Programming in pictures](https://github.com/girliemac/a-picture-is-worth-a-1000-words)
