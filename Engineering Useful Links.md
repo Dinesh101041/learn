@@ -81,6 +81,7 @@
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
    -  [Thirty(30) days of React](https://github.com/Asabeneh/30-Days-Of-React)
+   -  [Web Gems](https://github.com/lostdesign/webgems)
    -  [What happens when](https://github.com/alex/what-happens-when)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
    
