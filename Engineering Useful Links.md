@@ -103,6 +103,7 @@
 ## Doc Tools
 
    -  [API Security List](https://github.com/shieldfy/API-Security-Checklist)
+   -  [Chat GPT Google Extension](https://github.com/wong2/chat-gpt-google-extension)
    -  [Dev Docs](https://devdocs.io/)
    -  [I hate Regex](https://ihateregex.io/)
    -  [Fun javascript](https://github.com/denysdovhan/wtfjs)
