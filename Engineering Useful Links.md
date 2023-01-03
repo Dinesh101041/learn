@@ -61,6 +61,7 @@
    -  [Learn GO with test](https://github.com/quii/learn-go-with-tests)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+   -  [Hacking Tools](https://github.com/Z4nzu/hackingtool)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
    -  [Machine learning projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
