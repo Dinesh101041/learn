@@ -114,6 +114,7 @@
   
 ## Dev Tools
 
+   -  [Auto Regex](https://www.autoregex.xyz/)
    -  [Carbon](https://carbon.now.sh/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
