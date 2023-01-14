@@ -41,6 +41,7 @@
    -  [Awesome pentest](https://github.com/enaqx/awesome-pentest)
    -  [Awesome Typography](https://github.com/Jolg42/awesome-typography)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
+   -  [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
    -  [Block chain](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
    -  [Build your own](https://github.com/danistefanovic/build-your-own-x)
