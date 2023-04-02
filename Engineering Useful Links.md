@@ -38,6 +38,7 @@
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
    -  [Awesome CTO Resources](https://github.com/kuchin/awesome-cto)
    -  [Awesome Educational games](https://github.com/yrgo/awesome-educational-games)
+   -  [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
    -  [Awesome pentest](https://github.com/enaqx/awesome-pentest)
    -  [Awesome Typography](https://github.com/Jolg42/awesome-typography)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
