@@ -21,6 +21,7 @@
    -  [Dribble](https://dribbble.com/)
    -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
+   -  [Kaggle - Datasets and Machine learining](https://www.kaggle.com/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
    -  [OWASP cheat sheets](https://cheatsheetseries.owasp.org/)
    -  [Penopat free design](https://penpot.app/)
