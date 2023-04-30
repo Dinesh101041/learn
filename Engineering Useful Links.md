@@ -54,6 +54,7 @@
    -  [Data engineering course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
    -  [Design Resources](https://github.com/bradtraversy/design-resources-for-developers#stock-music--sound-effects)
    -  [Devops Resources](https://github.com/bregman-arie/devops-resources)
+   -  [Developer Portfolio](https://github.com/emmabostian/developer-portfolios)
    -  [Django Style Guide](https://github.com/HackSoftware/Django-Styleguide)
    -  [DSA in Python](https://github.com/SamirPaul1/DSAlgo)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
