@@ -15,12 +15,17 @@
 ## Best Webistes
   
    -  [Art of hacking](https://h4cker.org/)
+   -  [API Security List](https://github.com/shieldfy/API-Security-Checklist)
    -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
+   -  [Chat GPT Google Extension](https://github.com/wong2/chat-gpt-google-extension)
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
+   -  [Dev Docs](https://devdocs.io/)
    -  [Dribble](https://dribbble.com/)
    -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
+   -  [Fun javascript](https://github.com/denysdovhan/wtfjs)
+   -  [I hate Regex](https://ihateregex.io/)
    -  [Kaggle - Datasets and Machine learining](https://www.kaggle.com/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
    -  [OWASP cheat sheets](https://cheatsheetseries.owasp.org/)
@@ -28,7 +33,6 @@
    -  [SitePoint](https://www.sitepoint.com/)
    -  [UX Movement](https://uxmovement.com/)
    -  [W3 Schools](https://www.w3schools.com/)
-    
   
    
 ## Best Repos
@@ -108,15 +112,6 @@
    -  [System design game](https://designpatternsgame.com/)
    -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
    -  [Whimsical Diagram Tool](https://whimsical.com/)
-
-
-## Doc Tools
-
-   -  [API Security List](https://github.com/shieldfy/API-Security-Checklist)
-   -  [Chat GPT Google Extension](https://github.com/wong2/chat-gpt-google-extension)
-   -  [Dev Docs](https://devdocs.io/)
-   -  [I hate Regex](https://ihateregex.io/)
-   -  [Fun javascript](https://github.com/denysdovhan/wtfjs)
    
   
 ## Dev Tools
