@@ -118,6 +118,7 @@
 
    -  [Auto Regex](https://www.autoregex.xyz/)
    -  [Carbon](https://carbon.now.sh/)
+   -  [Cronitor](https://cronitor.io/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
    -  [JS Hint](https://github.com/jshint/jshint)
