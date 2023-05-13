@@ -125,6 +125,7 @@
    -  [Netlify](https://www.netlify.com/)
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
+   -  [Sonar Qube](https://www.sonarsource.com/products/sonarqube/)
    -  [Squoosh](https://squoosh.app/)
    -  [Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
