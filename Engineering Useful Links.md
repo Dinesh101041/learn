@@ -121,6 +121,7 @@
    -  [Cronitor](https://cronitor.io/)
    -  [DataDog](https://www.datadoghq.com/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
+   -  [Imgix](https://imgix.com/)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
    -  [JS Hint](https://github.com/jshint/jshint)
    -  [kite](https://www.kite.com/)
