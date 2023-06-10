@@ -69,6 +69,7 @@
    -  [GitHub Ranking repos](https://github.com/EvanLi/Github-Ranking)
    -  [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
    -  [Learn GO with test](https://github.com/quii/learn-go-with-tests)
+   -  [Linkedin Skill Assessments](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Hacking Tools](https://github.com/Z4nzu/hackingtool)
