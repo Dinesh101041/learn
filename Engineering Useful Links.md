@@ -26,6 +26,7 @@
    -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
    -  [Fun javascript](https://github.com/denysdovhan/wtfjs)
+   -  [HackerEarth Challenges](https://www.hackerearth.com/challenges/)
    -  [I hate Regex](https://ihateregex.io/)
    -  [Kaggle - Datasets and Machine learining](https://www.kaggle.com/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
