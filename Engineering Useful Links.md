@@ -21,6 +21,7 @@
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
    -  [Dev Docs](https://devdocs.io/)
+   -  [Dev Toys](https://devtoys.app/)
    -  [Dribble](https://dribbble.com/)
    -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
