@@ -43,6 +43,7 @@
    -  [Algorithms](https://github.com/TheAlgorithms)
    -  [Art of command line](https://github.com/jlevy/the-art-of-command-line)
    -  [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms)
+   -  [Awesome Cryptography](https://github.com/sobolevn/awesome-cryptography)
    -  [Awesome CTO Resources](https://github.com/kuchin/awesome-cto)
    -  [Awesome Educational games](https://github.com/yrgo/awesome-educational-games)
    -  [Awesome Flipper Zero](https://github.com/djsime1/awesome-flipperzero)
