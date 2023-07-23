@@ -75,6 +75,7 @@
    -  [Linkedin Skill Assessments](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
+   -  [Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
    -  [Hacking Tools](https://github.com/Z4nzu/hackingtool)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
