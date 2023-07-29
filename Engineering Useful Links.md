@@ -94,6 +94,7 @@
    -  [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports)
    -  [Python mini project](https://github.com/Python-World/python-mini-projects)
    -  [Python patterns](https://github.com/faif/python-patterns)
+   -  [React js interview questions](https://github.com/sudheerj/reactjs-interview-questions)
    -  [Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture)
    -  [System Design - Interview ready](https://github.com/InterviewReady/system-design-resources)
    -  [System Design questions](https://github.com/relogX/system-design-questions)
