@@ -113,35 +113,31 @@
 ## Best Tools
   
    -  [Adobe XD](https://www.adobe.com/in/products/xd.html)
-   -  [Figma](https://www.sketch.com/)
-   -  [Motion Desinger](https://github.com/theatre-js/theatre)
-   -  [Notes taking App](https://github.com/nuttyartist/notes)
-   -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-   -  [Figma](https://www.figma.com/)
-   -  [System design game](https://designpatternsgame.com/)
-   -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
-   -  [Whimsical Diagram Tool](https://whimsical.com/)
-   
-  
-## Dev Tools
-
    -  [Auto Regex](https://www.autoregex.xyz/)
    -  [Carbon](https://carbon.now.sh/)
    -  [Cronitor](https://cronitor.io/)
    -  [DataDog](https://www.datadoghq.com/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
+   -  [Figma](https://www.sketch.com/)
    -  [Gumlet](https://www.gumlet.com/)
    -  [Imgix](https://imgix.com/)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
    -  [JS Hint](https://github.com/jshint/jshint)
    -  [kite](https://www.kite.com/)
+   -  [Motion Desinger](https://github.com/theatre-js/theatre)
+   -  [Notes taking App](https://github.com/nuttyartist/notes)
    -  [Netlify](https://www.netlify.com/)
+   -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
+   -  [Figma](https://www.figma.com/)
+   -  [System design game](https://designpatternsgame.com/)
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
    -  [Sonar Qube](https://www.sonarsource.com/products/sonarqube/)
    -  [Spike.sh Incident Management Tool](https://spike.sh/)
    -  [Squoosh](https://squoosh.app/)
+   -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
    -  [Travis CI](https://travis-ci.org/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [Winston Error logging](https://www.npmjs.com/package/winston)
-   
+   -  [Whimsical Diagram Tool](https://whimsical.com/)
+      
