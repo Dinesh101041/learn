@@ -68,6 +68,7 @@
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
    -  [Flutter UI challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
+   -  [Front End stuff](https://github.com/moklick/frontend-stuff)
    -  [GCP sketch note](https://github.com/priyankavergadia/GCPSketchnote)
    -  [GitHub Ranking repos](https://github.com/EvanLi/Github-Ranking)
    -  [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
