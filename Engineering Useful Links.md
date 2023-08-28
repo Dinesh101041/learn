@@ -107,6 +107,7 @@
    -  [Web Hackers Weapons](https://github.com/hahwul/WebHackersWeapons)
    -  [Web Gems](https://github.com/lostdesign/webgems)
    -  [What happens when](https://github.com/alex/what-happens-when)
+   -  [WTF Python](https://github.com/satwikkansal/wtfpython)
    -  [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
    
   
