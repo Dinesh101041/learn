@@ -50,6 +50,7 @@
    -  [Awesome pentest](https://github.com/enaqx/awesome-pentest)
    -  [Awesome Typography](https://github.com/Jolg42/awesome-typography)
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
+   -  [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
    -  [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
    -  [Backend Developer Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
