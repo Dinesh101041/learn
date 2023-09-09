@@ -79,6 +79,7 @@
    -  [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate)
    -  [Hacker Search Engines](https://github.com/edoardottt/awesome-hacker-search-engines)
    -  [Hacking Tools](https://github.com/Z4nzu/hackingtool)
+   -  [How to Hunt - methodology and test case for various web vulnerabilities](https://github.com/KathanP19/HowToHunt)
    -  [Interview without whiteboard](https://github.com/poteto/hiring-without-whiteboards)
    -  [Internship programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
    -  [Ios Learning Material](https://github.com/eleev/ios-learning-materials)
