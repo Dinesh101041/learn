@@ -138,6 +138,7 @@
    -  [System design game](https://designpatternsgame.com/)
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
+   -  [Sentry](https://sentry.io/)
    -  [Sonar Qube](https://www.sonarsource.com/products/sonarqube/)
    -  [Spike.sh Incident Management Tool](https://spike.sh/)
    -  [Squoosh](https://squoosh.app/)
