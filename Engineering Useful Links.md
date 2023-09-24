@@ -89,6 +89,7 @@
    -  [Node Best practices](https://github.com/goldbergyoni/nodebestpractices)
    -  [Ninety(90) Days of Devops](https://github.com/MichaelCade/90DaysOfDevOps)
    -  [Open Ai cookbook](https://github.com/openai/openai-cookbook)
+   -  [OSINT Toolkit](https://github.com/dev-lu/osint_toolkit)
    -  [Pay loads for web application and pen testing](https://github.com/swisskyrepo/PayloadsAllTheThings)
    -  [Papers we love](https://github.com/papers-we-love/papers-we-love)
    -  [Pen Testing cheat sheets](https://github.com/0xJs/RedTeaming_CheatSheet)
