@@ -135,7 +135,7 @@
    -  [Motion Desinger](https://github.com/theatre-js/theatre)
    -  [Netlify](https://www.netlify.com/)
    -  [oh my zsh](https://github.com/ohmyzsh/ohmyzsh)
-   -  [Figma](https://www.figma.com/)
+   -  [Sketch](https://www.sketch.com/)
    -  [System design game](https://designpatternsgame.com/)
    -  [Replit](https://replit.com/)
    -  [Rollbar error logging](https://rollbar.com/)
