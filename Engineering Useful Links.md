@@ -126,7 +126,7 @@
    -  [DataDog](https://www.datadoghq.com/)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [Excail Draw](https://excalidraw.com/)
-   -  [Figma](https://www.sketch.com/)
+   -  [Figma](https://www.figma.com/)
    -  [Gumlet](https://www.gumlet.com/)
    -  [Imgix](https://imgix.com/)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
