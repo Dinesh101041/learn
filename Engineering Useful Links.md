@@ -1,9 +1,9 @@
 ## Road Maps
    
-   -  [Android Developer RoadMap](https://github.com/skydoves/android-developer-roadmap)
-   -  [Backend RoadMap](https://roadmap.sh/backend)
-   -  [Devops RoadMap](https://roadmap.sh/devops)
-   -  [Front-End RoadMap](https://roadmap.sh/frontend)
+   -  [Android Developer](https://github.com/skydoves/android-developer-roadmap)
+   -  [Backend Developer](https://roadmap.sh/backend)
+   -  [Devops Developer](https://roadmap.sh/devops)
+   -  [Front-End Developer](https://roadmap.sh/frontend)
    -  [Front End challenges](https://github.com/felipefialho/frontend-challenges)
    -  [Good Companies other than FAANG](https://github.com/Kaustubh-Natuskar/moreThanFAANGM)
    -  [Internship Programs](https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs)
@@ -143,7 +143,7 @@
    -  [Rollbar error logging](https://rollbar.com/)
    -  [Sentry](https://sentry.io/)
    -  [Sonar Qube](https://www.sonarsource.com/products/sonarqube/)
-   -  [Spike.sh Incident Management Tool](https://spike.sh/)
+   -  [Spike.sh Incident Tool](https://spike.sh/)
    -  [Squoosh](https://squoosh.app/)
    -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
    -  [Travis CI](https://travis-ci.org/)
