@@ -20,6 +20,7 @@
    -  [Chat GPT Google Extension](https://github.com/wong2/chat-gpt-google-extension)
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
+   -  [Dev Post - Hackathons](https://devpost.com/)
    -  [Dev Docs](https://devdocs.io/)
    -  [Dev Toys](https://devtoys.app/)
    -  [Dribble](https://dribbble.com/)
