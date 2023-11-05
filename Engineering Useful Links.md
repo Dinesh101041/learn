@@ -31,6 +31,7 @@
    -  [I hate Regex](https://ihateregex.io/)
    -  [Kaggle - Datasets and Machine learining](https://www.kaggle.com/)
    -  [Linkedin SRE](https://linkedin.github.io/school-of-sre/)
+   -  [Port Swigger - Web Security Acadamey](https://portswigger.net/web-security)
    -  [OWASP cheat sheets](https://cheatsheetseries.owasp.org/)
    -  [Penopat free design](https://penpot.app/)
    -  [QwikLabs](https://googlecloud.qwiklabs.com/discovery)
