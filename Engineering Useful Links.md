@@ -34,6 +34,7 @@
    -  [Port Swigger - Web Security Acadamey](https://portswigger.net/web-security)
    -  [OWASP cheat sheets](https://cheatsheetseries.owasp.org/)
    -  [Penopat free design](https://penpot.app/)
+   -  [Port Swigger Academy](https://portswigger.net/web-security)
    -  [QwikLabs](https://googlecloud.qwiklabs.com/discovery)
    -  [SitePoint](https://www.sitepoint.com/)
    -  [UX Movement](https://uxmovement.com/)
