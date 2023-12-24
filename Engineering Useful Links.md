@@ -18,7 +18,6 @@
    -  [API Security List](https://github.com/shieldfy/API-Security-Checklist)
    -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
    -  [Best Website Programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-   -  [Chat GPT Google Extension](https://github.com/wong2/chat-gpt-google-extension)
    -  [CSS-Tricks](https://css-tricks.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
    -  [Dev Docs](https://devdocs.io/)
