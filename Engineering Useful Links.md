@@ -39,7 +39,6 @@
    -  [QwikLabs](https://googlecloud.qwiklabs.com/discovery)
    -  [SitePoint](https://www.sitepoint.com/)
    -  [UX Movement](https://uxmovement.com/)
-   -  [W3 Schools](https://www.w3schools.com/)
   
    
 ## Best Repos
