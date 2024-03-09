@@ -24,6 +24,7 @@
    -  [Dev Folio](https://devfolio.co/hackathons)
    -  [Dev Post - Hackathons](https://devpost.com/)
    -  [Dev Toys](https://devtoys.app/)
+   -  [Dev.To](https://dev.to/)
    -  [Dribble](https://dribbble.com/)
    -  [Dalle 2](https://openai.com/dall-e-2/)
    -  [Design system](https://storybook.js.org/tutorials/design-systems-for-developers/)
