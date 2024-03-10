@@ -155,6 +155,7 @@
    -  [Squoosh](https://squoosh.app/)
    -  [Terminal Auto complete](https://github.com/withfig/autocomplete)
    -  [Travis CI](https://travis-ci.org/)
+   -  [Warp Terminal](https://www.warp.dev/)
    -  [Wapplyzer](https://www.wappalyzer.com/)
    -  [Winston Error logging](https://www.npmjs.com/package/winston)
    -  [Whimsical Diagram Tool](https://whimsical.com/)
