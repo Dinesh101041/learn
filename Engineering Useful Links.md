@@ -137,6 +137,7 @@
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [Excail Draw](https://excalidraw.com/)
    -  [Figma](https://www.figma.com/)
+   -  [Git - Protect and Find leaks](https://github.com/gitleaks/gitleaks)
    -  [Gumlet](https://www.gumlet.com/)
    -  [Imgix](https://imgix.com/)
    -  [Json Crack- Json Visualizer](https://jsoncrack.com/)
