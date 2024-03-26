@@ -134,6 +134,7 @@
    -  [Crontab guru](https://crontab.guru/#)
    -  [Coolify Self Hosting](https://coolify.io/)
    -  [DataDog](https://www.datadoghq.com/)
+   -  [Devika AI Engineer](https://github.com/stitionai/devika)
    -  [Docker files](https://github.com/jessfraz/dockerfiles)
    -  [Excail Draw](https://excalidraw.com/)
    -  [Figma](https://www.figma.com/)
