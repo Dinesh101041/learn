@@ -16,6 +16,7 @@
   
    -  [Art of hacking](https://h4cker.org/)
    -  [API Security List](https://github.com/shieldfy/API-Security-Checklist)
+   - [Analytics Vidhya](https://www.analyticsvidhya.com)
    -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
    -  [Best Website Programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
    -  [CSS-Tricks](https://css-tricks.com/)
