@@ -72,6 +72,7 @@
    -  [Developer Portfolio](https://github.com/emmabostian/developer-portfolios)
    -  [Django Style Guide](https://github.com/HackSoftware/Django-Styleguide)
    -  [DSA in Python](https://github.com/SamirPaul1/DSAlgo)
+   -  [Front End Stuff](https://github.com/moklick/frontend-stuff)
    -  [Front End Dev Bookmark](https://github.com/dypsilon/frontend-dev-bookmarks)
    -  [Free Dev Resources](https://github.com/ripienaar/free-for-dev)
    -  [Fifteen (15) Minutes app](https://github.com/pythonguis/15-minute-apps)
