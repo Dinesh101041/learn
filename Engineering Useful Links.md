@@ -40,6 +40,7 @@
    -  [Port Swigger Academy](https://portswigger.net/web-security)
    -  [QwikLabs](https://googlecloud.qwiklabs.com/discovery)
    -  [SitePoint](https://www.sitepoint.com/)
+   -  [The Run dowm AI](https://www.therundown.ai/)
    -  [UX Movement](https://uxmovement.com/)
   
    
