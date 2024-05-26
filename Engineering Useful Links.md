@@ -116,6 +116,7 @@
    -  [System Design - Interview ready](https://github.com/InterviewReady/system-design-resources)
    -  [System Design questions](https://github.com/relogX/system-design-questions)
    -  [Self hosted server](https://github.com/awesome-selfhosted/awesome-selfhosted)
+   -  [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
    -  [Swift Collection](https://github.com/apple/swift-collections)
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
