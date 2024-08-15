@@ -121,6 +121,7 @@
    -  [Tech interview handbook](https://github.com/yangshun/tech-interview-handbook)
    -  [Thirty(30) seconds of code](https://github.com/30-seconds/30-seconds-of-code)
    -  [Thirty(30) days of React](https://github.com/Asabeneh/30-Days-Of-React)
+   - [Trufflehog - leaked credentials](https://github.com/trufflesecurity/trufflehog)
    -  [TypeScript Challenges](https://github.com/type-challenges/type-challenges)
    -  [Web Hackers Weapons](https://github.com/hahwul/WebHackersWeapons)
    -  [Web Gems](https://github.com/lostdesign/webgems)
