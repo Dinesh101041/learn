@@ -85,6 +85,7 @@
    -  [GitHub Ranking repos](https://github.com/EvanLi/Github-Ranking)
    -  [GitHub Readme stats](https://github.com/anuraghazra/github-readme-stats)
    -  [GPT Vulnerablity Scanner](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
+   -  [How to make operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
    -  [Learn GO with test](https://github.com/quii/learn-go-with-tests)
    -  [Linkedin Skill Assessments](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
    -  [Coding interview patterns](https://github.com/Chanda-Abdul/Grokking-the-Coding-Interview-Patterns)
