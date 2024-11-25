@@ -61,6 +61,7 @@
    -  [Awesome Resources](https://github.com/sindresorhus/awesome)
    -  [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
    -  [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+   -  [Awesome System Admin](https://github.com/awesome-foss/awesome-sysadmin)
    -  [Backend Developer Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
    -  [Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
    -  [Block chain](https://github.com/smartcontractkit/full-blockchain-solidity-course-py)
