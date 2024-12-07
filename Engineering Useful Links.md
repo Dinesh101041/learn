@@ -20,6 +20,7 @@
    -  [Awesome Linux software](https://luong-komorebi.github.io/Awesome-Linux-Software)
    -  [Best Website Programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
    -  [CSS-Tricks](https://css-tricks.com/)
+   -  [Click Bank - Affiliate](https://www.clickbank.com/)
    -  [CSS hover effects](http://ianlunn.github.io/Hover/)
    -  [Dev Docs](https://devdocs.io/)
    -  [Dev Folio](https://devfolio.co/hackathons)
